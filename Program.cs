@@ -1,2 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+namespace Mission03
+{
+    public class FoodItem
+    {
+        // Class content goes here
+    }
+}
